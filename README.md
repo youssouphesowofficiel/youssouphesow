@@ -41,7 +41,7 @@
 ### 🌐 Réseaux
 
 <p align="center">
-  <a href="https://twitter.com/youssouphesowofficiel">
+  <a href="https://twitter.com/youssouphesow">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/youssouphesowofficiel">
