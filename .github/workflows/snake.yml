@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: youssouphesow
+          github_user_name: youssouphesowofficiel
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
