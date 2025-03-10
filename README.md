@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a>
     <img src="https://streak-stats.demolab.com/?user=youssouphesowofficiel&theme=dark" alt="Statistiques GitHub" />
   </a>
 </p>
