@@ -112,6 +112,8 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=youssouphesowofficiel&theme=redical" />
 </a>
 
+### 🤩 Mes Contributions GitHub
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
