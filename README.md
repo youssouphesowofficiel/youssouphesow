@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=youssouphesow&theme=dark&locale=fr" alt="Statistiques GitHub" />
+    <img src="https://streak-stats.demolab.com?user=youssouphesowofficiel&theme=dark&locale=fr" alt="Statistiques GitHub" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/youssouphesowofficiel/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=youssouphesow&theme=onedark&margin-w=15" alt="Trophées GitHub" width="800"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=youssouphesowofficiel&theme=onedark&margin-w=15" alt="Trophées GitHub" width="800"/>
   </a>
 </p>
 
