@@ -11,18 +11,18 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/youssouphesow/count.svg" />
+  <img src="https://profile-counter.glitch.me/youssouphesowofficiel/count.svg" />
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=youssouphesow&theme=dark&locale=fr" alt="Statistiques GitHub" />
+    <img src="https://streak-stats.demolab.com?user=youssouphesowofficiel&theme=dark&locale=fr" alt="Statistiques GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/youssouphesow/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=youssouphesow&theme=onedark&margin-w=15" alt="Trophées GitHub" width="800"/>
+  <a href="https://github.com/youssouphesowofficiel/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=youssouphesowofficiel&theme=onedark&margin-w=15" alt="Trophées GitHub" width="800"/>
   </a>
 </p>
 
@@ -41,16 +41,16 @@
 ### 🌐 Réseaux
 
 <p align="center">
-  <a href="https://twitter.com/youssouphs">
+  <a href="https://twitter.com/youssouphesowofficiel">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/youssouphesow">
+  <a href="https://linkedin.com/in/youssouphesowofficiel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://youtube.com/pdgtutoriel">
+  <a href="https://youtube.com/@youssouphesowofficiel">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
   </a>
-  <a href="https://instagram.com/youssouphe__sow">
+  <a href="https://instagram.com/youssouphesowofficiel">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
 </p>
@@ -93,23 +93,23 @@
 ### 📈 Statistiques GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=youssouphesow&show_icons=true&theme=dark&locale=fr"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssouphesow&layout=compact&theme=dark&locale=fr"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=youssouphesowofficiel&show_icons=true&theme=dark&locale=fr"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssouphesowofficiel&layout=compact&theme=dark&locale=fr"/>
 </p>
 
 ---
 
 ### 🎥 Contenu Créatif
 <p align="center">
-  <a href="https://www.youtube.com/c/pdgtutoriel">
+  <a href="https://www.youtube.com/c/youssouphesowofficiel">
     <img src="https://img.shields.io/badge/-Tutoriels%20YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="Chaîne YouTube"/>
   </a>
 </p>
 
 ---
 
-<a href="https://github.com/youssouphesow/Snake-Game">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=youssouphesow&theme=redical" />
+<a href="https://github.com/youssouphesowofficiel/Snake-Game">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=youssouphesowofficiel&theme=redical" />
 </a>
 
 ---
@@ -117,15 +117,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake-dark.svg"
+    srcset="https://youssouphesowofficiel.github.io/youssouphesowofficiel/github-contribution-grid-snake-dark.svg"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake.svg"
+    srcset="https://youssouphesowofficiel.github.io/youssouphesowofficiel/github-contribution-grid-snake.svg"
   >
   <img
     alt="Animation de contributions GitHub"
-    src="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake.svg"
+    src="https://youssouphesowofficiel.github.io/youssouphesowofficiel/github-contribution-grid-snake.svg"
   >
 </picture>
 
