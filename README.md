@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a>
-    <img src="https://streak-stats.demolab.com/?user=youssouphesowofficiel&theme=dark" alt="Statistiques GitHub" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=youssouphesowofficiel&theme=dark&v=1" alt="Statistiques GitHub" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 - 📝 J'écris régulièrement sur **[Esperanzia](https://www.esperanzia.com)**
 - 🎨 Portfolio complet : **[youssouphesow.com](https://www.youssouphesow.com)**
 - 📫 Contact professionnel : **youssouphesow1111@gmail.com**
-- 🚀 Tous mes projets : **[Répertoire GitHub](https://github.com/Youssouphe-sow?tab=repositories)**
+- 🚀 Tous mes projets : **[Répertoire GitHub](https://github.com/youssouphesowofficiel?tab=repositories)**
 
 ---
 
