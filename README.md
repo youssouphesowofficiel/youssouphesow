@@ -112,8 +112,6 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=youssouphesowofficiel&theme=redical" />
 </a>
 
----
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
