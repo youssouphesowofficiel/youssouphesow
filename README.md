@@ -117,15 +117,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://youssouphesowofficiel.github.io/youssouphesow/github-contribution-grid-snake-dark.svg"
+    srcset="https://youssouphesowofficiel.github.io/youssouphesowofficiel/github-contribution-grid-snake-dark.svg"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://youssouphesowofficiel.github.io/youssouphesow/github-contribution-grid-snake.svg"
+    srcset="https://youssouphesowofficiel.github.io/youssouphesowofficiel/github-contribution-grid-snake.svg"
   >
   <img
     alt="Animation de contributions GitHub"
-    src="https://youssouphesowofficiel.github.io/youssouphesow/github-contribution-grid-snake.svg"
+    src="https://youssouphesowofficiel.github.io/youssouphesowofficiel/github-contribution-grid-snake.svg"
   >
 </picture>
 
