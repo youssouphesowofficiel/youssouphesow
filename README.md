@@ -129,8 +129,6 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=youssouphesowofficiel&theme=redical" />
 </a>
 
----
-
 <h2 align="left">🚀JOIN THE ADVENTURE ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🚀</h2>
 
     ██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗ ██████╗ ██╗   ██╗██████╗ ███████╗    ███████╗ ██████╗ ██╗    ██╗
