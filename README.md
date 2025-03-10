@@ -108,10 +108,6 @@
 
 ---
 
-<a href="https://github.com/youssouphesowofficiel/Snake-Game">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=youssouphesowofficiel&theme=redical" />
-</a>
-
 ### 🤩 Mes Contributions GitHub
 
 <picture>
@@ -128,6 +124,10 @@
     src="https://youssouphesowofficiel.github.io/youssouphesowofficiel/github-contribution-grid-snake.svg"
   >
 </picture>
+
+<a href="https://github.com/youssouphesowofficiel/Snake-Game">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=youssouphesowofficiel&theme=redical" />
+</a>
 
 ---
 
