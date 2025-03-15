@@ -42,10 +42,10 @@
 
 <p align="center">
   <a href="https://twitter.com/youssouphesow">
-    <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="X"/>
+    <img src="https://img.shields.io/badge/X-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge" alt="X"/>
   </a>
   <a href="https://linkedin.com/in/youssouphesowofficiel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
     <a href="https://tiktok.com/youssouphesowofficiel">
     <img src="https://img.shields.io/badge/TikTok-040404?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok"/>
