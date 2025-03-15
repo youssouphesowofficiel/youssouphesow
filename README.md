@@ -47,6 +47,9 @@
   <a href="https://linkedin.com/in/youssouphesowofficiel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
+    <a href="https://tiktok.com/youssouphesowofficiel">
+    <img src="https://img.shields.io/badge/TikTok-0077B5?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok"/>
+  </a>
   <a href="https://youtube.com/@youssouphesowofficiel">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
   </a>
