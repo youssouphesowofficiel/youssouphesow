@@ -41,6 +41,9 @@
 ### 🌐 Réseaux
 
 <p align="center">
+  <a href="https://youtube.com/@youssouphesowofficiel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
+  </a>
   <a href="https://twitter.com/youssouphesow">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="X"/>
   </a>
@@ -49,9 +52,6 @@
   </a>
     <a href="https://tiktok.com/youssouphesowofficiel">
     <img src="https://img.shields.io/badge/TikTok-040404?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok"/>
-  </a>
-  <a href="https://youtube.com/@youssouphesowofficiel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
   </a>
   <a href="https://instagram.com/youssouphesowofficiel">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
